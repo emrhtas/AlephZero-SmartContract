@@ -13,7 +13,7 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
 ## Kontrol ediyoruz.
 ```
-nano docker-compose.yaml
+cargo --help
 ```
 
 
