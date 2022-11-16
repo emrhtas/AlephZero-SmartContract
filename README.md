@@ -1,4 +1,4 @@
-# AlephZero-SmartContract
+# AlephZero-SmartContract  (hazır değil)
 ## 1) Gerekli Kurulumları Yapıyoruz.
 ### Rust yüklüyoruz
 ```
